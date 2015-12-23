@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TransparentClass" >
+        <file>trans_icon.png</file>
+    </qresource>
+</RCC>
